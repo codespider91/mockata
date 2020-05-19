@@ -1,0 +1,52 @@
+{
+    "inputs": [
+      {
+        "panelId": 1,
+        "inputType": 0,
+        "logicZoneId": 1,
+        "selectedInput": 2,
+        "selectedInputDescription": "Zone 2"
+      },
+      {
+        "panelId": 1,
+        "inputType": 0,
+        "logicZoneId": 1,
+        "selectedInput": 3,
+        "selectedInputDescription": "Zone 3"
+      }
+    ],
+    "outputs": [
+      {
+        "panelId": 1,
+        "outputType": 0,
+        "logicZoneId": 1,
+        "selectedOutput": 6,
+        "selectedOutputDescription": null
+      },
+      {
+        "panelId": 1,
+        "outputType": 0,
+        "logicZoneId": 1,
+        "selectedOutput": 7,
+        "selectedOutputDescription": null
+      },
+      {
+        "panelId": 1,
+        "outputType": 1,
+        "logicZoneId": 1,
+        "selectedOutput": 2,
+        "selectedOutputDescription": "Sounder 2"
+      },
+      {
+        "panelId": 1,
+        "outputType": 1,
+        "logicZoneId": 1,
+        "selectedOutput": 3,
+        "selectedOutputDescription": "ProgRelay"
+      }
+    ],
+    "operator": 1,
+    "description": "testdesi",
+    "isNOTApplied": true,
+    "logicZoneNumber": 1
+  }
